@@ -1,0 +1,14 @@
+h1{
+    text-align: center;
+}
+
+li:hover{
+    background-color: greenyellow;
+    }
+    li:active{
+        color: blue        
+    }
+
+    ol,ul{
+        list-style: none;
+    }
